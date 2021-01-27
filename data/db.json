@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome 1",
+      "body": "TA-TAAAAAAAAAAAAAAAAAAM",
+      "likes": 10
+    },
+    {
+      "id": 2,
+      "title": "Welcome 2",
+      "body": "TATA-TAAAAAAAAAAAAAAAAAAM",
+      "likes": 20
+    },
+    {
+      "id": 3,
+      "title": "Welcome 3",
+      "body": "TATATA-TAAAAAAAAAAAAAAAAAAM",
+      "likes": 30
+    }
+  ],
+  "polls": [
+      {
+        "id": 1,
+        "question": "Vue or React",
+        "answerA": "Vue",
+        "answerB": "React"
+      }
+  ]
+}
